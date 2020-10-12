@@ -15,6 +15,12 @@ For help getting started with Flutter, view our
 [online documentation](https://flutter.io/docs), which offers tutorials, 
 samples, guidance on mobile development, and a full API reference.
 
+## Adding an emulator (Andriod)
+Link: https://flutter.dev/docs/get-started/install/windows#set-up-the-android-emulator
+
+## Please visit the below link for iOS platform
+Link: https://stackoverflow.com/questions/49002527/flutter-ios-emulator-for-windows/49003612
+
 ## How to run
 Using Visual Studio Code, Run -> Start Debugging -> Select emulator -> Select myapp
 
