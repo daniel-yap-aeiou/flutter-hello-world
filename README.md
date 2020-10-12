@@ -17,3 +17,10 @@ samples, guidance on mobile development, and a full API reference.
 
 ## How to run
 Using Visual Studio Code, Run -> Start Debugging -> Select emulator -> Select myapp
+
+Demo link: https://youtu.be/PzJuc67UcIk
+
+<br/>
+
+![Snapshot](https://github.com/daniel-yap-aeiou/flutter-hello-world/blob/main/img/Android%20Emulator%20-%20Nexus_5X_API_28_5554%202020-10-12%2018-40-16.gif)
+
